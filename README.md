@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![](https://raw.githubusercontent.com/skport/github-profile-summary-cards/master/profile-summary-card-output/zenburn/0-profile-details.svg)
-![](https://raw.githubusercontent.com/skport/github-profile-summary-cards/master/profile-summary-card-output/zenburn/3-stats.svg)
-![](https://raw.githubusercontent.com/skport/github-profile-summary-cards/master/profile-summary-card-output/zenburn/1-repos-per-language.svg)
